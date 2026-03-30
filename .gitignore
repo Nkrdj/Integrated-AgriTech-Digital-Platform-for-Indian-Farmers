@@ -1,0 +1,12 @@
+# Build and dependency directories
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+*.log
+.vscode/
+.idea/
+.serverless/
+.next/
+out/
